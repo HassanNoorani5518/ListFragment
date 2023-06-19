@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">FragmentTry</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="list_fragment">List Fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="definition">
+
+        <item>Open source software stack</item>
+        <item>Android Runtime Environment</item>
+        <item>Android Virtual Device</item>
+        <item>An abstract description of an operation to be performed</item>
+        <item>Ahead of Time compilation</item>
+        <item>Simulates Android devices on your computer</item>
+        <item>Application component that provides a screen</item>
+        <item>A mini activity</item>
+        <item>These methods are called when .....</item>
+
+    </string-array>
+
+    <string-array name="concepts">
+
+        <item>Android</item>
+        <item>ART</item>
+        <item>AVD</item>
+        <item>Intent</item>
+        <item>AOT</item>
+        <item>Emulator</item>
+        <item>Activity</item>
+        <item>Fragment</item>
+        <item>Life Cycle events</item>
+
+    </string-array>
+
+
+</resources>
