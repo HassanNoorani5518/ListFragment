@@ -5,6 +5,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.content.res.Resources;
 import android.os.Bundle;
 
+
 public class HassanNooraniMainActivity extends AppCompatActivity {
 
     String[] clabels;
@@ -19,6 +20,6 @@ public class HassanNooraniMainActivity extends AppCompatActivity {
         clabels = res.getStringArray(R.array.concepts);
         dlabels = res.getStringArray(R.array.definition);
 
-        
+
     }
 }

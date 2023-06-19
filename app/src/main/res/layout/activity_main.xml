@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".HassanNooraniMainActivity">
 
-    <androidx.fragment.app.FragmentContainerView
+    <fragment
         android:id="@+id/fragmentContainerView"
         android:name="com.example.fragmenttry.ListFragment"
         android:layout_width="179dp"
@@ -17,7 +17,7 @@
         app:layout_constraintTop_toTopOf="parent"
         tools:layout="@layout/fragment_list" />
 
-    <androidx.fragment.app.FragmentContainerView
+    <fragment
         android:id="@+id/fragmentContainerView2"
         android:name="com.example.fragmenttry.DefinitionFragment"
         android:layout_width="188dp"
